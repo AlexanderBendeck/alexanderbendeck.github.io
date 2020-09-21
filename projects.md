@@ -3,7 +3,9 @@
 
 ## Ongoing
 
-[Under construction]
+**I-Rex**: I-Rex, an Interactive Relational Query Explainer for SQL, is a tool meant to help students learning SQL understand their mistakes while debugging incorrect queries. You can read our paper <a href="http://www.vldb.org/pvldb/vol13/p2997-miao.pdf">here</a> or see our VLDB demo video (starring yours truly) <a href="https://dukedb-hnrq.github.io/#demo-video">here</a>. I-Rex is currently being deployed in the classroom at Duke in our introductory database course, and we are looking forward to getting feedback from students on how to make it even better. This work is part of a broader project <a href="https://nsf.gov/awardsearch/showAward?AWD_ID=2008107">funded by NSF</a> called "HNRQ: Helping Novices Learn and Debug Relational Queries".
+
+**NeuroFit**: This is an interdisciplinary research study being run by the <a href="https://www.mcablab.science/">MCAB Lab</a> at Duke. Participants in this study have their physical activity monitored for three months while receiving physical activity promotion messages on their phones in the form of text messages. There is also a neuroimaging component where we use an fMRI scan to monitor brain activity when reading the messages before they are received via text. You can read more about the study and check out some of the code for the neuroimaging task and data wrangling <a href="https://github.com/AlexanderBendeck/neurofit-study">here</a>. This semester, I am analyzing the data we have collected thus far to investigate the effectiveness of these text messages at motivating participants to be more physically active.
 
 ## Past
 
