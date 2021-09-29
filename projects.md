@@ -3,7 +3,7 @@
 
 ## Georgia Tech
 
-**Panda**: Panda is a weakly-supervised system for entity matching. Panda uses the *labeling function* abstraction, where labeling functions (LFs) are user-provided programs that can cheaply generate many noisy match/unmatch labels. These LFs can then be combined by a labeling model to make accurate final predictions. I am currently working on improving the <a href="http://vldb.org/pvldb/vol14/p2735-wu.pdf">preliminary Panda system</a> to more intelligently combine LFs and scale better on massive datasets.
+**Panda**: Panda is a weakly-supervised system for entity matching. Panda uses the *labeling function* abstraction, where labeling functions (LFs) are user-provided programs that can cheaply generate many noisy match/unmatch labels. These LFs can then be combined by a labeling model to make accurate final predictions. I am currently working on improving the <a href="http://vldb.org/pvldb/vol14/p2735-wu.pdf">preliminary Panda system</a> to combine LFs more intelligently and scale better on massive datasets.
 
 **More coming soon!**
 
