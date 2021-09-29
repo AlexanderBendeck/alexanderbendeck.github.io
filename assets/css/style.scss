@@ -2,7 +2,7 @@
 ---
 
 @import "{{ site.theme }}";
-#pages li {
+ul.pages {
   list-style:none;
   height:40px;
   padding:0;
@@ -10,4 +10,54 @@
   border-radius:5px;
   border:1px solid #e0e0e0;
   width:270px;
+}
+
+.pages li {
+  width:89px;
+  float:left;
+  border-right:1px solid #e0e0e0;
+  height:40px;
+}
+
+.pages li:first-child a {
+  border-radius:5px 0 0 5px;
+}
+
+.pages li:last-child a {
+  border-radius:0 5px 5px 0;
+}
+
+.pages a {
+  line-height:1;
+  font-size:11px;
+  color:#676767;
+  display:block;
+  text-align:center;
+  padding-top:6px;
+  height:34px;
+}
+
+.pages a:hover, .downloads a:focus {
+  color:#675C5C;
+  font-weight:bold;
+}
+
+.pages ul a:active {
+  background-color:#f0f0f0;
+}
+
+strong {
+  color:#222;
+  font-weight:700;
+}
+
+.pages li + li + li {
+  border-right:none;
+  width:89px;
+}
+
+.pages a strong {
+  font-size:14px;
+  display:block;
+  color:#222;
 }
