@@ -3,6 +3,7 @@
 
 @import "{{ site.theme }}";
 #pages li {
+  float:left;
   list-style:none;
   height:40px;
   padding:0;
