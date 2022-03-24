@@ -3,7 +3,7 @@
 
 ## Georgia Tech
 
-**Electric Grid Visualization**: When technicians are operating and monitoring portions of an electric grid, they are faced with an enormous volume of diverse data, much of which has inherent uncertainties. The goal of this project is to develop new data visualizations for the types of data, uncertainty, and decision making that confront grid operators. The materials developed will support systematic cognitive science research by collaborators at Sandia National Labs that will identify the visualization techniques that are best suited to support the cognitive needs of grid operators.
+**Electric Grid Visualization**: When technicians are monitoring parts of an electric grid, they are faced with an enormous volume of diverse data, much of which has inherent uncertainties. The goal of this project is to develop new data visualizations for the types of data, uncertainty, and decision making that confront grid operators. These visualizations will support cognitive science research by our collaborators at Sandia National Labs to identify techniques which best support the cognitive needs of grid operators.
 
 **Panda**: <a href="https://panda-matching.com/">Panda</a> is a weakly-supervised system for entity matching. Panda uses the *labeling function* abstraction, where labeling functions (LFs) are user-provided programs that can cheaply generate many noisy match/unmatch labels. These LFs can then be combined by a labeling model to make accurate final predictions. In Fall 2021, I worked on improving the <a href="http://vldb.org/pvldb/vol14/p2735-wu.pdf">preliminary Panda system</a> to combine LFs more intelligently.
 
