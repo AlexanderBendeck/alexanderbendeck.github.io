@@ -9,4 +9,8 @@ I completed my undergrad at Duke University. I worked with professors [Jun Yang]
 
 **More coming soon!**
 
+**July 2022:** My work on Yelp review text mining and visualization has been accepted to [UrbComp 2022](http://urban-computing.com/urbcomp2022/).
+
+**January 2022:** Joined the [GT VIS Lab](https://vis.gatech.edu/).
+
 **August 2021:** Started my PhD at Georgia Tech.
