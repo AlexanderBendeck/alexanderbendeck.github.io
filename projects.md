@@ -3,6 +3,8 @@
 
 ## Georgia Tech
 
+**U.S. Migration**: Internal migration within the United States has the potential to reshape the country socially and politically. Past research has found that people are more likely to migrate within the U.S. to counties that match their current county in factors including political orientation, median income, and more. I am building an [interactive map tool](https://alexanderbendeck.shinyapps.io/migration-map/) to help users explore these county-level migration patterns.
+
 **Electric Grid Visualization**: When technicians are monitoring parts of an electric grid, they are faced with an enormous volume of diverse data, much of which has inherent uncertainties. The goal of this project is to develop new data visualizations for the types of data, uncertainty, and decision making that confront grid operators. These visualizations will support cognitive science research by our collaborators at Sandia National Labs.
 
 **Panda**: <a href="https://panda-matching.com/">Panda</a> is a weakly-supervised system for entity matching. Panda uses the *labeling function* abstraction, where labeling functions (LFs) are user-provided programs that can cheaply generate many noisy match/unmatch labels. These LFs can then be combined by a labeling model to make accurate final predictions. In Fall 2021, I worked on improving the <a href="http://vldb.org/pvldb/vol14/p2735-wu.pdf">preliminary Panda system</a> to combine LFs more intelligently.
