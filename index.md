@@ -1,13 +1,17 @@
 ---
 # About
 
-I am a second-year Ph.D. student in the School of Interactive Computing at Georgia Tech, advised by Prof. [John Stasko](https://www.cc.gatech.edu/home/stasko/). I have broad interests in data visualization, visual analytics, machine learning, and data management. I am currently working on building visualization tools to support electric grid operators (in collaboration with Sandia National Labs), as well as interactive maps for analysis of migration data.
+I am a second-year Ph.D. student in the School of Interactive Computing at Georgia Tech, advised by Prof. [John Stasko](https://www.cc.gatech.edu/home/stasko/). I have broad interests in data visualization, visual analytics, geographic data, and visualization design methodologies. I am currently working on building visualization tools to support electric grid operators (in collaboration with Sandia National Labs), as well as interactive maps for analysis of U.S. migration data.
 
 I completed my undergrad at Duke University. I worked with professors [Jun Yang](https://users.cs.duke.edu/~junyang/) and [Sudeepa Roy](https://users.cs.duke.edu/~sudeepa/) on database projects such as [HNRQ](https://dukedb-hnrq.github.io/). I was also engaged in interdisciplinary research through the [Bass Connections program](https://bassconnections.duke.edu/project-teams/using-neuroscience-optimize-digital-health-interventions-across-adulthood-2019-2020) at Duke. I worked in the [MCAB Lab](https://www.mcablab.science/) under the supervision of professor [Gregory Samanez-Larkin](https://www.mcablab.science/gregoryrsl).
 
 # Recent Updates
 
 **More coming soon!**
+
+**May 2023:** I will be spending the summer interning at [Tableau Research](https://www.tableau.com/research).
+
+**October 2022:** I was interviewed about my recent work on visualizing U.S. migration patterns for a [FiveThirtyEight article](https://fivethirtyeight.com/features/many-americans-say-they-want-to-relocate-for-political-reasons-few-actually-do/).
 
 **July 2022:** My work on Yelp review text mining and visualization has been accepted to [UrbComp 2022](http://urban-computing.com/urbcomp2022/)! Check out the [paper](http://urban-computing.com/urbcomp2022/file/UrbComp2022_paper_6824.pdf) and [interactive map tool](https://doi.org/10.6084/m9.figshare.20352963).
 
