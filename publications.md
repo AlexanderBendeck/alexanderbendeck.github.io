@@ -1,8 +1,8 @@
 ---
 # Publications
 
-* Ground Truth Inference for Weakly Supervised Entity Matching.  
-Renzhi Wu, **Alexander Bendeck**, Xu Chu, Yeye He (2023). Accepted to *ACM SIGMOD International Conference on Management of Data.*
+* [Ground Truth Inference for Weakly Supervised Entity Matching](http://dl.acm.org/doi/pdf/10.1145/3588712).  
+Renzhi Wu, **Alexander Bendeck**, Xu Chu, Yeye He (2023). *ACM SIGMOD International Conference on Management of Data.*
 
 * [Text Mining and Spatial Analysis of Yelp Data to Support Socially Vibrant Cities](http://urban-computing.com/urbcomp2022/file/UrbComp2022_paper_6824.pdf). 
 **Alexander Bendeck**, Clio Andris (2022). *11th International Workshop on Urban Computing.*
