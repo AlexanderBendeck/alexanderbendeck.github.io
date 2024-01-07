@@ -1,13 +1,15 @@
 ---
 # About
 
-I am a third-year Ph.D. student in the School of Interactive Computing at Georgia Tech, advised by Prof. [John Stasko](https://www.cc.gatech.edu/home/stasko/). I have broad interests in data visualization, visual analytics, geographic data, and visualization design methodologies. I am currently working on building visualization tools to support electric grid operators (in collaboration with Sandia National Labs), as well as interactive maps for analysis of U.S. migration data.
+I am a third-year Ph.D. student in the School of Interactive Computing at Georgia Tech, advised by Prof. [John Stasko](https://www.cc.gatech.edu/home/stasko/). I have broad interests in data visualization and visual analytics, especially for geographic data, and I am currently studying how to support user interaction with data using text and large language models. I am also working on building visualization tools to support electric grid operators (in collaboration with Sandia National Labs).
 
 I completed my undergrad at Duke University. I worked with professors [Jun Yang](https://users.cs.duke.edu/~junyang/) and [Sudeepa Roy](https://users.cs.duke.edu/~sudeepa/) on database projects such as [HNRQ](https://dukedb-hnrq.github.io/). I was also engaged in interdisciplinary research through the [Bass Connections program](https://bassconnections.duke.edu/project-teams/using-neuroscience-optimize-digital-health-interventions-across-adulthood-2019-2020) at Duke. I worked in the [MCAB Lab](https://www.mcablab.science/) under the supervision of professor [Gregory Samanez-Larkin](https://www.mcablab.science/gregoryrsl).
 
 # Recent Updates
 
 **More coming soon!**
+
+**December 2023:** My summer work at Tableau Research was accepted for publication at [IUI 2024](https://iui.acm.org/2024/index.html)! Details to come.
 
 **August 2023:** I am honored to receive a Georgia Tech [Goizueta Foundation Fellowship](https://diversity.gatech.edu/students/office-hispanic-initiatives/goizueta-foundation-fellowship-doctoral).
 
