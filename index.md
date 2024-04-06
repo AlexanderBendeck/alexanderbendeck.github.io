@@ -9,7 +9,9 @@ I completed my undergrad at Duke University. I worked with professors [Jun Yang]
 
 **More coming soon!**
 
-**December 2023:** My summer work at Tableau Research was accepted for publication at [IUI 2024](https://iui.acm.org/2024/index.html)! Details to come.
+**March 2024:** I presented my Tableau internship project, [SlopeSeeker](https://dl.acm.org/doi/pdf/10.1145/3640543.3645208), at [IUI 2024](https://iui.acm.org/2024/index.html).
+
+**December 2023:** My summer work at Tableau Research was accepted for publication at [IUI 2024](https://iui.acm.org/2024/index.html)!
 
 **August 2023:** I am honored to receive a Georgia Tech [Goizueta Foundation Fellowship](https://diversity.gatech.edu/students/office-hispanic-initiatives/goizueta-foundation-fellowship-doctoral).
 
