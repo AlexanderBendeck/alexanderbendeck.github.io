@@ -1,6 +1,9 @@
 ---
 # Publications
 
+* [SlopeSeeker: A Search Tool for Exploring a Dataset of Quantifiable Trends](https://dl.acm.org/doi/pdf/10.1145/3640543.3645208).
+**Alexander Bendeck**, Dennis Bromley, Vidya Setlur (2024). *ACM Conference on Intelligent User Interfaces (IUI).*
+
 * [Ground Truth Inference for Weakly Supervised Entity Matching](http://dl.acm.org/doi/pdf/10.1145/3588712).  
 Renzhi Wu, **Alexander Bendeck**, Xu Chu, Yeye He (2023). *ACM SIGMOD International Conference on Management of Data.*
 
