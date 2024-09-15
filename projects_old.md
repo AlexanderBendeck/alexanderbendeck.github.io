@@ -7,7 +7,7 @@
 
 **Electric Grid Visualization**: When technicians are monitoring parts of an electric grid, they are faced with an enormous volume of diverse data, much of which has inherent uncertainties. The goal of this project is to develop new data visualizations for the types of data, uncertainty, and decision making that confront grid operators. These visualizations will support cognitive science research by our collaborators at Sandia National Labs. This work was incorporated into a <a href="https://faculty.cc.gatech.edu/~john.stasko/papers/uncertainty24-forecast.pdf">workshop paper</a> at IEEE VIS 2024.
 
-**Panda**: <a href="https://panda-matching.com/">Panda</a> is a weakly-supervised system for entity matching. Panda uses the *labeling function* abstraction, where labeling functions (LFs) are user-provided programs that can cheaply generate many noisy match/unmatch labels. These LFs can then be combined by a labeling model to make accurate final predictions. In Fall 2021, I worked on improving the <a href="http://vldb.org/pvldb/vol14/p2735-wu.pdf">preliminary Panda system</a> to combine LFs more intelligently.
+**Panda (Entity Matching)**: Panda is a weakly-supervised system for entity matching. Panda uses the *labeling function* abstraction, where labeling functions (LFs) are user-provided programs that can cheaply generate many noisy match/unmatch labels. These LFs can then be combined by a labeling model to make accurate final predictions. In Fall 2021, I worked on improving the <a href="http://vldb.org/pvldb/vol14/p2735-wu.pdf">preliminary Panda system</a> to combine LFs more intelligently. This work contributed to a <a href="http://dl.acm.org/doi/pdf/10.1145/3588712">SIGMOD 2023 paper</a>.
 
 ## Duke
 
