@@ -1,6 +1,8 @@
 ---
 # Older Projects
 
+*Looking for my more recent work? Visit <a href="https://alexanderbendeck.github.io/projects.html">here</a>.*
+
 ## Georgia Tech
 
 **Electric Grid Visualization**: When technicians are monitoring parts of an electric grid, they are faced with an enormous volume of diverse data, much of which has inherent uncertainties. The goal of this project is to develop new data visualizations for the types of data, uncertainty, and decision making that confront grid operators. These visualizations will support cognitive science research by our collaborators at Sandia National Labs. This work was incorporated into a <a href="https://faculty.cc.gatech.edu/~john.stasko/papers/uncertainty24-forecast.pdf">workshop paper</a> at IEEE VIS 2024.
