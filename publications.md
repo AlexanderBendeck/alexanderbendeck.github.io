@@ -1,6 +1,9 @@
 ---
 # Publications
 
+* [An Empirical Evaluation of the GPT-4 Multimodal Language Model on Visualization Literacy Tasks](https://faculty.cc.gatech.edu/~john.stasko/papers/vis24-llm.pdf).
+**Alexander Bendeck**, John Stasko (2024). To appear in *IEEE Visualization and Visual Analytics (VIS).*
+
 * [SlopeSeeker: A Search Tool for Exploring a Dataset of Quantifiable Trends](https://dl.acm.org/doi/pdf/10.1145/3640543.3645208).
 **Alexander Bendeck**, Dennis Bromley, Vidya Setlur (2024). *ACM Conference on Intelligent User Interfaces (IUI).*
 
