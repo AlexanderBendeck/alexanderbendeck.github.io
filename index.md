@@ -13,7 +13,7 @@ Before Georgia Tech, I attended Duke University as an undergraduate student. I w
 
 **December 2023:** My summer work at Tableau Research was accepted for publication at [IUI 2024](https://iui.acm.org/2024/index.html)!
 
-**August 2023:** I am honored to receive a Georgia Tech [Goizueta Foundation Fellowship](https://diversity.gatech.edu/students/office-hispanic-initiatives/goizueta-foundation-fellowship-doctoral).
+**August 2023:** I am honored to receive a Georgia Tech Goizueta Foundation Fellowship.
 
 **May 2023:** I will be spending the summer interning at [Tableau Research](https://www.tableau.com/research).
 
