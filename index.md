@@ -9,6 +9,8 @@ Before Georgia Tech, I attended Duke University as an undergraduate student. I w
 
 **More coming soon!**
 
+**October 2024:** I presented my work on [evaluating GPT-4V's visualization literacy](https://faculty.cc.gatech.edu/~john.stasko/papers/vis24-llm.pdf) at [VIS 2024](https://ieeevis.org/year/2024/welcome).
+
 **March 2024:** I presented my Tableau internship project, [SlopeSeeker](https://dl.acm.org/doi/pdf/10.1145/3640543.3645208), at [IUI 2024](https://iui.acm.org/2024/index.html).
 
 **December 2023:** My summer work at Tableau Research was accepted for publication at [IUI 2024](https://iui.acm.org/2024/index.html)!
