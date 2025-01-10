@@ -2,7 +2,7 @@
 # Publications
 
 * [Robin: An Interactive Visualization System and Instructional Tool to Democratize United
-States Domestic Migration Data](https://scholarspace.manoa.hawaii.edu/server/api/core/bitstreams/2b6ae2c8-01e3-433f-9fd6-834763cf2bc0/content).
+States Domestic Migration Data](https://scholarspace.manoa.hawaii.edu/server/api/core/bitstreams/2b6ae2c8-01e3-433f-9fd6-834763cf2bc0/content).      
 **Alexander Bendeck**, Clio Andris, John Stasko (2025). *Hawaii International Conference on System Sciences (HICSS).*
 
 * [An Empirical Evaluation of the GPT-4 Multimodal Language Model on Visualization Literacy Tasks](https://faculty.cc.gatech.edu/~john.stasko/papers/vis24-llm.pdf).
