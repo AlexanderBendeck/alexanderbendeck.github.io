@@ -9,6 +9,10 @@ Before Georgia Tech, I attended Duke University as an undergraduate student. I w
 
 **More coming soon!**
 
+**May 2025:** I will be spending the summer interning at MIT Lincoln Laboratory in the [AI Technology & Systems Group](https://www.ll.mit.edu/r-d/cyber-security-and-information-sciences/artificial-intelligence-technology-and-systems).
+
+**January 2025:** I presented my work on visualizing U.S. migration patterns, [Robin](https://scholarspace.manoa.hawaii.edu/server/api/core/bitstreams/2b6ae2c8-01e3-433f-9fd6-834763cf2bc0/content), at [HICSS 2025](https://hdl.handle.net/10125/109837).
+
 **October 2024:** I presented my work on [evaluating GPT-4V's visualization literacy](https://faculty.cc.gatech.edu/~john.stasko/papers/vis24-llm.pdf) at [VIS 2024](https://ieeevis.org/year/2024/welcome).
 
 **March 2024:** I presented my Tableau internship project, [SlopeSeeker](https://dl.acm.org/doi/pdf/10.1145/3640543.3645208), at [IUI 2024](https://iui.acm.org/2024/index.html).
