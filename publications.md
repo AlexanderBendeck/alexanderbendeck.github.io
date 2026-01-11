@@ -1,6 +1,9 @@
 ---
 # Publications
 
+* [How Visually Literate Are Large Language Models? Reflections on Recent Advances and Future Directions](https://ieeexplore.ieee.org/document/11240593).
+**Alexander Bendeck**, John Stasko (2025). *IEEE Computer Graphics and Applications.*
+
 * [Robin: An Interactive Visualization System and Instructional Tool to Democratize United
 States Domestic Migration Data](https://scholarspace.manoa.hawaii.edu/server/api/core/bitstreams/2b6ae2c8-01e3-433f-9fd6-834763cf2bc0/content).      
 **Alexander Bendeck**, Clio Andris, John Stasko (2025). *Hawaii International Conference on System Sciences (HICSS).*
