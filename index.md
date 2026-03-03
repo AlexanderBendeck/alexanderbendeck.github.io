@@ -9,6 +9,8 @@ Before Georgia Tech, I attended Duke University as an undergraduate student. I w
 
 **More coming soon!**
 
+**March 2026:** My summer work at MIT Lincoln Laboratory was accepted for publication at [AVI 2026](https://www.unive.it/web/en/15667/home)!
+
 **December 2025:** I was invited to publish an [extended reflection](https://ieeexplore.ieee.org/document/11240593) on LLM visualization literacy in _IEEE Computer Graphics and Applications_.
 
 **November 2025:** I presented a follow-up [workshop paper](http://www.cc.gatech.edu/~john.stasko/papers/eduvis25-robin.pdf) on my work visualizing U.S. migration patterns at the [IEEE VIS EduVis Workshop](https://ieee-eduvis.github.io/).
