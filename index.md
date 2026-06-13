@@ -9,6 +9,8 @@ Before Georgia Tech, I attended Duke University as an undergraduate student. I w
 
 **More coming soon!**
 
+**June 2026:** I presented my MIT Lincoln Laboratory internship project, [DataForager](https://dl.acm.org/doi/pdf/10.1145/3811427.3811434), at [AVI 2026](https://www.unive.it/web/en/15667/home).
+
 **March 2026:** My summer work at MIT Lincoln Laboratory was accepted for publication at [AVI 2026](https://www.unive.it/web/en/15667/home)!
 
 **December 2025:** I was invited to publish an [extended reflection](https://ieeexplore.ieee.org/document/11240593) on LLM visualization literacy in _IEEE Computer Graphics and Applications_.
