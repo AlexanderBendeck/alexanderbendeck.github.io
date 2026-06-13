@@ -1,6 +1,9 @@
 ---
 # Publications
 
+* [DataForager: Integrating and Visualizing Datasets From the Web Using Large Language Models](https://dl.acm.org/doi/pdf/10.1145/3811427.3811434).
+**Alexander Bendeck**, Harry Li, Steven Gomez, Ashley Suh (2026). *ACM Conference on Advanced Visual Interfaces (AVI).*
+
 * [How Visually Literate Are Large Language Models? Reflections on Recent Advances and Future Directions](https://ieeexplore.ieee.org/document/11240593).
 **Alexander Bendeck**, John Stasko (2025). *IEEE Computer Graphics and Applications.*
 
