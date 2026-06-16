@@ -9,4 +9,4 @@
 
 **SlopeSeeker**: SlopeSeeker is a system which I built during my internship at Tableau Research in Summer 2023. It is a search tool for exploring a dataset of temporal data using trend search queries in natural language, such as "show me stocks that were tanking". The interface supports faceted search for users to navigate a semantic hierarchy of trend concepts. SlopeSeeker was [published at IUI 2024](https://dl.acm.org/doi/pdf/10.1145/3640543.3645208). 
 
-*For older projects, visit <a href="https://alexanderbendeck.github.io/projects_old.html">here</a>.*
+*For more projects, visit <a href="https://alexanderbendeck.github.io/projects_more.html">here</a>.*
