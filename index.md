@@ -11,7 +11,7 @@ Before Georgia Tech, I attended Duke University as an undergraduate student. I w
 
 **June 2026:** I presented my MIT Lincoln Laboratory internship project, [DataForager](https://dl.acm.org/doi/pdf/10.1145/3811427.3811434), at [AVI 2026](https://www.unive.it/web/en/15667/home).
 
-**May 2026:** I defended my PhD Dissertation, "Exploring the Potential of Large Language Models as Computational Engines and Virtual Domain Experts for Visual Data Analysis". You can view it [here](https://hdl.handle.net/1853/81721).
+**May 2026:** I defended my PhD Dissertation, "Exploring the Potential of Large Language Models as Computational Engines and Virtual Domain Experts for Visual Data Analysis". You can read it [here](https://hdl.handle.net/1853/81721).
 
 **March 2026:** My summer work at MIT Lincoln Laboratory was accepted for publication at [AVI 2026](https://www.unive.it/web/en/15667/home)!
 
