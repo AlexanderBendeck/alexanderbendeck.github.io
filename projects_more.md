@@ -1,7 +1,7 @@
 ---
-# Older Projects
+# More Projects
 
-*Looking for my more recent work? Visit <a href="https://alexanderbendeck.github.io/projects.html">here</a>.*
+*Looking for my featured work? Visit <a href="https://alexanderbendeck.github.io/projects.html">here</a>.*
 
 ## Georgia Tech
 
