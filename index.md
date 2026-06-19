@@ -3,7 +3,7 @@
 
 I am a data scientist at Capital One, based in McLean, VA. I am working to support integration of credit risk models and analytical processes following Capital One's acquisition of Discover.
 
-In 2026, I completed my Ph.D. in the School of Interactive Computing at Georgia Tech, advised by Prof. [John Stasko](https://www.cc.gatech.edu/home/stasko/). My research centered on how large language models can support data science, particularly visual data analysis.
+In 2026, I completed my Ph.D. in Computer Science at Georgia Tech, advised by Prof. [John Stasko](https://www.cc.gatech.edu/home/stasko/). My research centered on how large language models can support data science, particularly visual data analysis.
 
 For a more extensive bio, see [here](https://alexanderbendeck.github.io/bio.html).
 
